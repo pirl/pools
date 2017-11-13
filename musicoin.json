@@ -60,16 +60,6 @@
         "notify":""
     },
     {  
-	"name":"NOMNOM", 
-	"stats":"http://musicoin.nomnom.technology/api/stats", 
-	"blocks":"http://musicoin.nomnom.technology/api/blocks", 
-	"payments":"http://musicoin.nomnom.technology/api/payments", 
-	"accounts":"http://musicoin.nomnom.technology/api/accounts",
-  	"miners":"http://musicoin.nomnom.technology/api/miners",
-	"url":"musicoin.nomnom.technology", 
-        "notify":""
-    },
-    {  
 	"name":"NEONPOOL", 
 	"stats":"http://neonpool.ddns.net/api/stats", 
 	"blocks":"http://neonpool.ddns.net/api/blocks", 
@@ -250,13 +240,23 @@
         "notify":""
     },
     {  
-	"name":"MINETHIS", 
-	"stats":"http://music.minethis.ca/api/stats", 
-	"blocks":"http://music.minethis.ca/api/blocks", 
-	"payments":"http://music.minethis.ca/api/payments", 
-	"accounts":"http://music.minethis.ca/api/accounts",
-  	"miners":"http://music.minethis.ca/api/miners",
-	"url":"music.minethis.ca", 
+	"name":"MINERSHQ", 
+	"stats":"https://mc.minershq.net/api/stats", 
+	"blocks":"https://mc.minershq.net/api/blocks", 
+	"payments":"https://mc.minershq.net/api/payments", 
+	"accounts":"https://mc.minershq.net/api/accounts",
+  	"miners":"https://mc.minershq.net/api/miners",
+	"url":"mc.minershq.net", 
+        "notify":""
+    },
+    {  
+	"name":"DROWNINGPOOL", 
+	"stats":"http://www.drowningpool.net/api/stats", 
+	"blocks":"http://www.drowningpool.net/api/blocks", 
+	"payments":"http://www.drowningpool.net/api/payments", 
+	"accounts":"http://www.drowningpool.net/api/accounts",
+  	"miners":"http://www.drowningpool.net/api/miners",
+	"url":"www.drowningpool.net", 
         "notify":""
     },
     {  

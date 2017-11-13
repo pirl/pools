@@ -98,16 +98,6 @@
         "notify":""
     },
     {  
-	"name":"MINETHIS", 
-	"stats":"http://whale.minethis.ca/api/stats", 
-	"blocks":"http://whale.minethis.ca/api/blocks", 
-	"payments":"http://whale.minethis.ca/api/payments", 
-	"accounts":"http://whale.minethis.ca/api/accounts",
-  	"miners":"http://whale.minethis.ca/api/miners",
-	"url":"whale.minethis.ca", 
-        "notify":""
-    },
-    {  
 	"name":"ZET-TECH", 
 	"stats":"https://wc.zet-tech.eu/api/stats", 
 	"blocks":"https://wc.zet-tech.eu/api/blocks", 
@@ -119,12 +109,32 @@
     },
     {  
 	"name":"GPUMINE", 
-	"stats":"https://whale.gpumine.org/api/stats", 
-	"blocks":"https://whale.gpumine.org/api/blocks", 
-	"payments":"https://whale.gpumine.org/api/payments", 
-	"accounts":"https://whale.gpumine.org/api/accounts",
-  	"miners":"https://whale.gpumine.org/api/miners",
-	"url":"whale.gpumine.org", 
+	"stats":"https://whl-tw.gpumine.org/api/stats", 
+	"blocks":"https://whl-tw.gpumine.org/api/blocks", 
+	"payments":"https://whl-tw.gpumine.org/api/payments", 
+	"accounts":"https://whl-tw.gpumine.org/api/accounts",
+  	"miners":"https://whl-tw.gpumine.org/api/miners",
+	"url":"whl-tw.gpumine.org", 
+        "notify":""
+    },
+    {  
+	"name":"POOLSEXY", 
+	"stats":"http://whl.pool.sexy/api2/stats", 
+	"blocks":"http://whl.pool.sexy/api2/blocks", 
+	"payments":"http://whl.pool.sexy/api2/payments", 
+	"accounts":"http://whl.pool.sexy/api2/accounts",
+  	"miners":"http://whl.pool.sexy/api2/miners",
+	"url":"whl.pool.sexy", 
+        "notify":""
+    },
+    {  
+	"name":"ZPOOL", 
+	"stats":"http://whale.zpool.fun/api/stats", 
+	"blocks":"http://whale.zpool.fun/api/blocks", 
+	"payments":"http://whale.zpool.fun/api/payments", 
+	"accounts":"http://whale.zpool.fun/api/accounts",
+  	"miners":"http://whale.zpool.fun/api/miners",
+	"url":"whale.zpool.fun", 
         "notify":""
     },
     {  

@@ -21,11 +21,11 @@
     },
     {  
 	"name":"LITWILLER",
-	"stats":"http://pega.litwiller.us/api/stats",
-	"blocks":"http://pega.litwiller.us/api/blocks",
-	"payments":"http://pega.litwiller.us/api/payments",
-	"accounts":"http://pega.litwiller.us/api/accounts",
-  	"miners":"http://pega.litwiller.us/api/miners",
+	"stats":"https://pega.litwiller.us/api/stats",
+	"blocks":"https://pega.litwiller.us/api/blocks",
+	"payments":"https://pega.litwiller.us/api/payments",
+	"accounts":"https://pega.litwiller.us/api/accounts",
+  	"miners":"https://pega.litwiller.us/api/miners",
 	"url":"pega.litwiller.us",
         "notify":""
     },
@@ -37,16 +37,6 @@
 	"accounts":"http://pgc.hodlpool.com:8109/api/accounts",
   	"miners":"http://pgc.hodlpool.com:8109/api/miners",
 	"url":"pgc.hodlpool.com",
-        "notify":""
-    },
-    {  
-	"name":"CLONA.RU",
-	"stats":"http://clona.ru:9002/api/stats",
-	"blocks":"http://clona.ru:9002/api/blocks",
-	"payments":"http://clona.ru:9002/api/payments",
-	"accounts":"http://clona.ru:9002/api/accounts",
-  	"miners":"http://clona.ru:9002/api/miners",
-	"url":"clona.ru",
         "notify":""
     },
     {  
