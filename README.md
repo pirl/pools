@@ -1,3 +1,6 @@
+# THIS REPO OF PIRL IS DEPRECIATED, WE HAVE MOVED TO NPOS PROTOCOL
+
+
 Data used in e.g. https://minerpool.net 
 
 This repo is used as a central data source. Please keep in mind that this data will be used at least on minerpool.net to list your pool public. 
